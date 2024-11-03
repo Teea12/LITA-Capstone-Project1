@@ -1,4 +1,25 @@
 
+# LITA_Class_Capstone_Project 1 Documentation
+This is where I documented my Capstone project for Data Analysis with the Incubator Hub
+### Project Title: Sales Performance Analysis for a Retail Store
+
+[Project Overview](#project-overview)
+
+[Microsoft Excel summary](#microsoft-excel-summary)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[PowerBI](#power-BI)
+
+
 
 [Project Overview](#project-overview)
 
@@ -9,9 +30,9 @@
 
 
 
-[Project Overview](#project-overview)
 
-### Project Title: Sales Performance Analysis for a Retail Store
+
+### Project Overview: 
 This Project is about the Sales Performance Analysis for a Retail Store.
 In this project, I analysed the sales performance of a retail store.
 I explored sales data to uncover key insights such as top-selling products, regional
@@ -21,11 +42,7 @@ dashboard that highlighted the findings.
 
 
 
-
-
-[Microsoft Excel Summary](#microsoft-excel-summary)
-
-### Pivot Table Summary Report of Total Sales for each Product
+### Pivot Table Summary Report of Total Sales for each Product using Excel
 
 Product	 Sum of Total Sales 
 
