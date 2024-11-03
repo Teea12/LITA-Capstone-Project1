@@ -1,6 +1,10 @@
 
 
 [Project Overview](#project-overview)
+[Microsoft Excel Summary](#microsoft-excel-summary)
+
+
+[Project Overview](#project-overview)
 
 ### Project Title: Sales Performance Analysis for a Retail Store
 This Project is about the Sales Performance Analysis for a Retail Store.
