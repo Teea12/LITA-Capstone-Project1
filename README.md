@@ -11,7 +11,12 @@ dashboard that highlighted the findings.
 
 
 
-Pivot Table Summary Report of Total Sales for each Product
+
+
+
+[Microsoft Excel Summary](#microsoft-excel-summary)
+
+### Pivot Table Summary Report of Total Sales for each Product
 
 Product	 Sum of Total Sales 
 
