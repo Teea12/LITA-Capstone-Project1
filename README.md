@@ -9,9 +9,11 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Tools Used](#tools-used)
 
-[Microsoft Excel summary](#microsoft-excel-summary)
-
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Microsoft Excel summary](#microsoft-excel-summary)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -59,6 +61,23 @@ The primary source of Data used on this project are Microsoft Excel, SQL databas
 
 - Power BI
   1. For data Visualizations.
+
+
+### Data Cleaning and Preparation
+---
+In the initial phase of the Data cleaning and preparations, we perform the following action;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+  ### Exploratory Data Analysis
+---
+Exploratory Data Analysis (EDA) involved the exploring of the data to answer some questions about the data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the product on peak sales
+- Which Region has the highest total sales
+- Which month was the highest in Total Sales
 
 
 
