@@ -183,10 +183,8 @@ The low sales in September maybe due to school children already restocked produc
 
 
 ### Power BI Visualizations
-Summary Report of Sum of Total Sales for each Product
+### Summary Report of Sum of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/e460a745-394c-405c-9703-164b680c7598)
-
-
 
 
 
@@ -194,7 +192,7 @@ Summary Report of Sum of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/5cb86bcd-2ecb-4aa3-9247-ae5a6d1dbb8c)
 
 
-Summary Report of Sum of Total Sales for each Month
+### Summary Report of Sum of Total Sales for each Month
 ![image](https://github.com/user-attachments/assets/8ec203f9-6cfb-45de-a6f6-12fa334bf8b7)
 
 
