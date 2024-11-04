@@ -5,9 +5,9 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Project Overview](#project-overview)
 
-[Microsoft Excel summary](#microsoft-excel-summary)
-
 [Tools Used](#tools-used)
+
+[Microsoft Excel summary](#microsoft-excel-summary)
 
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
@@ -38,6 +38,20 @@ In this project, I analysed the sales performance of a retail store.
 I explored sales data to uncover key insights such as top-selling products, regional
 performance, and monthly sales trends. I also produced an interactive Power BI
 dashboard that highlighted the findings.
+
+
+### Data Sources
+The primary source of Data used on this project are Microsoft Excel, SQL database, and Power BI
+
+
+
+### Tools Used
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+   1. For Data Cleaning
+   2. For Analysis and
+   3. For Data Visualization.
+
 
 
 
