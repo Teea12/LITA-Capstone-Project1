@@ -183,6 +183,10 @@ The low sales in September maybe due to school children already restocked produc
 
 
 ### Power BI Visualizations
+---
+Power BI is a data visualization and business intelligence tool. It converts data from different data sources to interactive dashboard, and create a report.
+
+
 ### Summary Report of Sum of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/e460a745-394c-405c-9703-164b680c7598)
 
