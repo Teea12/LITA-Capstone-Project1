@@ -5,6 +5,8 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
+
 [Tools Used](#tools-used)
 
 [Microsoft Excel summary](#microsoft-excel-summary)
@@ -47,7 +49,7 @@ The primary source of Data used on this project are Microsoft Excel, SQL databas
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Microsoft Excel 
    1. For Data Cleaning
    2. For Analysis and
    3. For Data Visualization.
