@@ -191,7 +191,9 @@ Power BI is a data visualization and business intelligence tool. It converts dat
 
 ### Summary Report of Sum of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/e460a745-394c-405c-9703-164b680c7598)
-
+From the Power BI visualizations above, the highest selling product is Shoes, and the lowest selling product is Socks.
+From this Report, the highest selling product that customers love to buy is shoes.
+From this Report, Customers like to buy shoes more than any other product in the store.
 
 
 
@@ -200,11 +202,19 @@ Power BI is a data visualization and business intelligence tool. It converts dat
 
 ### Summary Report of Sum of Total Sales for each Region
 ![image](https://github.com/user-attachments/assets/5cb86bcd-2ecb-4aa3-9247-ae5a6d1dbb8c)
+From both Reports above, the Region with the highest Total Sum of Sales is the South Region, and the Region with lowest Sum of Total Sales is the West.
+From this Report, the marketing strategy and discounts need to be increased in the West so more people can buy more Products in the West Region.
+Also from this Report, I can deduce that the People in the West Region cannot afford some Products due to high price.
+
 
 
 ### Summary Report of Sum of Total Sales for each Month
 ![image](https://github.com/user-attachments/assets/8ec203f9-6cfb-45de-a6f6-12fa334bf8b7)
-
+From the both Reports, the month with the highest number of Total sales is February, and the month with the lowest number of Total Sales is September.
+The valentine for lovers is in February, this can result to highest total sales in February, because customers want to buy products for their loved ones.
+Also the highest total sales in February can be because of the time when school children are on holidays, and they need to restock school items for the coming year, so nthere is more sales then.
+The low sales in September maybe due to school children already restocked products for the school year, so therefore no need to buy products again.
+Also low sales in September can be because December festive season is approaching, which make customers save up for December, and therefore they don't buy many products in September.
 
 
 
