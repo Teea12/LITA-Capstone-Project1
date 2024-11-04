@@ -21,7 +21,7 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Data Visualization](#data-visualization)
 
-[Power BI](#power-BI)
+[Power BI Visualizations](#power-BI-visualizations)
 
 
 
@@ -57,7 +57,7 @@ The primary source of Data used on this project are Microsoft Excel, SQL databas
 
 ### Data Cleaning and Preparation
 ---
-In the initial phase of the Data cleaning and preparations, we perform the following action;
+In the initial phase of the Data cleaning and preparations, I performed the following action;
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
