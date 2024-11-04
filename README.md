@@ -174,8 +174,10 @@ Grand Total	 10,587,500
 ### Chart showing Summary Report of Total Sales for each Month
 ![image](https://github.com/user-attachments/assets/0174f649-0062-4d3c-a160-3ec7edd5a7c1)
 From the both Reports, the month with the highest number of Total sales is February, and the month with the lowest number of Total Sales is September.
-This may be due to the time when school children are on holidays, and they need to restock school items for the coming year, so nthere is more sales then.
+The valentine for lovers is in February, this can result to highest total sales in February, because customers want to buy products for their loved ones.
+Also the highest total sales in February can be because of the time when school children are on holidays, and they need to restock school items for the coming year, so nthere is more sales then.
 The low sales in September maybe due to school children already restocked products for the school year, so therefore no need to buy products again.
+Also low sales in September can be because December festive season is approaching, which make customers save up for December, and therefore they don't buy many products in September.
 
 
 
