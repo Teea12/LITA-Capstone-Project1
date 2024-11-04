@@ -192,6 +192,10 @@ Power BI is a data visualization and business intelligence tool. It converts dat
 
 
 
+
+
+
+
 ### Summary Report of Sum of Total Sales for each Region
 ![image](https://github.com/user-attachments/assets/5cb86bcd-2ecb-4aa3-9247-ae5a6d1dbb8c)
 
