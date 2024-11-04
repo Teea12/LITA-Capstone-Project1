@@ -58,7 +58,7 @@ The primary source of Data used on this project are Microsoft Excel, SQL databas
 
 
 ### Microsoft Excel Summary
-### Pivot Table Summary Report of Total Sales for each Product using Excel
+### Pivot Table Summary Report of Total Sales for each Product using Microsoft Excel
 
 Product	 Sum of Total Sales 
 
@@ -81,7 +81,7 @@ Grand Total	 10,587,500
 ![image](https://github.com/user-attachments/assets/21fa53e7-5016-42a1-84da-d727f5792de3)
 
 
-Chart showing Summary Report of Total Sales for each Product
+### Chart showing Summary Report of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/6534d53d-0756-470c-97f5-450b316a1919)
 
 From both Reports above, the highest selling product is Shoes, and the lowest selling product is Socks.
@@ -89,7 +89,7 @@ From this Report, the highest selling product that customers love to buy is shoe
 From this Report, Customers like to buy shoes more than any other product in the store.
 
 
-Pivot Table Summary Report of Total Sales for each Region
+### Pivot Table Summary Report of Total Sales for each Region using Microsoft Excel
 
 East	 2,450,000 
 
@@ -108,7 +108,7 @@ Grand Total	 10,587,500
 ![image](https://github.com/user-attachments/assets/236030c6-57bb-4382-9208-56fe55840c6e)
 
 
-Chart showing Summary Report of Total Sales for each Region
+### Chart showing Summary Report of Total Sales for each Region
 ![image](https://github.com/user-attachments/assets/3c5c1f29-019e-46a3-8176-61093c47d8ff)
 
 From both Reports above, the Region with the highest Total Sum of Sales is the South Region, and the Region with lowest Sum of Total Sales is the West.
@@ -116,7 +116,7 @@ From this Report, the marketing strategy and discounts need to be increased in t
 Also from this Report, I can deduce that the People in the West Region cannot afford some Products due to high price.
 
 
-Pivot Table Summary Report of Total Sales for each Month
+### Pivot Table Summary Report of Total Sales for each Month
 Month	 Sum of Total Sales 
 Jan	 1,250,000 
 Feb	 2,750,000 
@@ -137,7 +137,7 @@ Grand Total	 10,587,500
 
 ![image](https://github.com/user-attachments/assets/210051fd-e89f-4882-a382-a1e1cc9eb96f)
 
-Chart showing Summary Report of Total Sales for each Month
+### Chart showing Summary Report of Total Sales for each Month
 ![image](https://github.com/user-attachments/assets/0174f649-0062-4d3c-a160-3ec7edd5a7c1)
 From the both Reports, the month with the highest number of Total sales is February, and the month with the lowest number of Total Sales is September.
 This may be due to the time when school children are on holidays, and they need to restock school items for the coming year, so nthere is more sales then.
@@ -148,7 +148,7 @@ The low sales in September maybe due to school children already restocked produc
 
 
 
-Power BI Visualizations
+### Power BI Visualizations
 Summary Report of Sum of Total Sales for each Product
 ![image](https://github.com/user-attachments/assets/e460a745-394c-405c-9703-164b680c7598)
 
@@ -156,7 +156,7 @@ Summary Report of Sum of Total Sales for each Product
 
 
 
-Summary Report of Sum of Total Sales for each Region
+### Summary Report of Sum of Total Sales for each Region
 ![image](https://github.com/user-attachments/assets/5cb86bcd-2ecb-4aa3-9247-ae5a6d1dbb8c)
 
 
