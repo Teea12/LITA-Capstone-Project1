@@ -21,15 +21,7 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Data Visualization](#data-visualization)
 
-[PowerBI](#power-BI)
-
-
-
-[Project Overview](#project-overview)
-
-
-[Microsoft Excel Summary](#microsoft-excel-summary)
-
+[Power BI](#power-BI)
 
 
 
