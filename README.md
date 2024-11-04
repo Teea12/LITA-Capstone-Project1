@@ -5,7 +5,6 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Project Overview](#project-overview)
 
-
 [Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
@@ -14,15 +13,13 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Microsoft Excel summary](#microsoft-excel-summary)
+[Microsoft Excel summary and visualizations](#microsoft-excel-summary-and-visualizations)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
-
-[Power BI Visualizations](#power-BI-visualizations)
+[Power BI Data Visualizations](#power-BI-data-visualizations)
 
 
 
