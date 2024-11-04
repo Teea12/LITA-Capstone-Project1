@@ -54,6 +54,12 @@ The primary source of Data used on this project are Microsoft Excel, SQL databas
    2. For Analysis and
    3. For Data Visualization.
 
+- SQL
+   1. To write queries
+
+- Power BI
+  1. For data Visualizations.
+
 
 
 
