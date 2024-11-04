@@ -143,18 +143,31 @@ Also from this Report, I can deduce that the People in the West Region cannot af
 
 ### Pivot Table Summary Report of Total Sales for each Month
 Month	 Sum of Total Sales 
+
 Jan	 1,250,000 
+
 Feb	 2,750,000 
+
 Mar	 537,500 
+
 Apr	 237,500 
+
 May	 525,000 
+
 Jun	 1,250,000 
+
 Jul	 1,387,500 
+
 Aug	 1,025,000 
+
 Sep	 175,000 
+
 Oct	 675,000 
+
 Nov	 525,000 
+
 Dec	 250,000 
+
 Grand Total	 10,587,500 
 
 
@@ -163,6 +176,8 @@ Grand Total	 10,587,500
 
 
 ![image](https://github.com/user-attachments/assets/210051fd-e89f-4882-a382-a1e1cc9eb96f)
+
+
 
 ### Chart showing Summary Report of Total Sales for each Month
 ![image](https://github.com/user-attachments/assets/0174f649-0062-4d3c-a160-3ec7edd5a7c1)
