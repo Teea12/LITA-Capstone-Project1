@@ -202,6 +202,10 @@ Also low sales in September can be because December festive season is approachin
 
 ![image](https://github.com/user-attachments/assets/66df70ad-5977-4a85-aab6-294c04ea0f3c)
 
+![image](https://github.com/user-attachments/assets/f22044bd-f8c2-4f20-bf81-fae21aed589c)
+
+
+
 
 
 
