@@ -198,6 +198,12 @@ Also low sales in September can be because December festive season is approachin
 
 ![image](https://github.com/user-attachments/assets/b4aa5649-a1d9-4e6b-a4fb-be50ce96c386)
 
+![image](https://github.com/user-attachments/assets/26b0ccb1-12ce-4d7d-89d8-57a800639489)
+
+![image](https://github.com/user-attachments/assets/66df70ad-5977-4a85-aab6-294c04ea0f3c)
+
+
+
 
 
 ### Power BI Visualizations
