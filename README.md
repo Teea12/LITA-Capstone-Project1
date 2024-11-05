@@ -177,11 +177,26 @@ Also the highest total sales in February can be because of the time when school 
 The low sales in September maybe due to school children already restocked products for the school year, so therefore no need to buy products again.
 Also low sales in September can be because December festive season is approaching, which make customers save up for December, and therefore they don't buy many products in September.
 
+### Excel Formulas calculation
+
 
 
 ### Data Analysis
 ### Using SQL
 ![image](https://github.com/user-attachments/assets/6fcf642f-fdad-438b-9771-ece205b30b2a)
+![image](https://github.com/user-attachments/assets/40ee09dd-53ce-4787-9958-e892b4ea4c7c)
+
+![image](https://github.com/user-attachments/assets/0042a995-e9d1-4179-bb76-71e9e1512c56)
+
+![image](https://github.com/user-attachments/assets/8a902037-5c4f-4531-8888-1c5f1c46d715)
+
+![image](https://github.com/user-attachments/assets/41debb83-ff88-4ccd-bacf-ada1ac1145e8)
+
+![image](https://github.com/user-attachments/assets/0c3551da-7bae-49d9-8a8c-3d3a71f71762)
+
+![image](https://github.com/user-attachments/assets/db6870a1-ac43-46d7-a565-69a2f78fe2d6)
+
+![image](https://github.com/user-attachments/assets/b4aa5649-a1d9-4e6b-a4fb-be50ce96c386)
 
 
 
