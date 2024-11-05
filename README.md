@@ -15,8 +15,6 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Microsoft Excel summary and visualizations](#microsoft-excel-summary-and-visualizations)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
-
 [Excel Formula Calculation](#excel-formula-calculation)
 
 [Data Analysis](#data-analysis)
@@ -180,6 +178,15 @@ The low sales in September maybe due to school children already restocked produc
 Also low sales in September can be because December festive season is approaching, which make customers save up for December, and therefore they don't buy many products in September.
 
 ### Excel Formulas calculation
+### Average sales by product
+
+I sorted the Product Column from A to Z
+![image](https://github.com/user-attachments/assets/d6b8f0cd-ae6b-491a-8359-9fdc2baa0e05)
+
+Average Sales for gloves
+![image](https://github.com/user-attachments/assets/670c6ce6-ba8a-4f4f-a2c1-5d537fcae9c7)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
+
 
 
 
