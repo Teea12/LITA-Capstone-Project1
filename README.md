@@ -73,7 +73,9 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 
 
 ### Microsoft Excel Summary and Visualizations
+---
 ### Pivot Table Summary Report of Total Sales for each Product using Microsoft Excel
+
 
 Product	 Sum of Total Sales 
 
@@ -178,6 +180,8 @@ The low sales in September maybe due to school children already restocked produc
 Also low sales in September can be because December festive season is approaching, which make customers save up for December, and therefore they don't buy many products in September.
 
 ### Excel Formulas calculation
+---
+
 ### Average sales by product
 
 I sorted the Product Column from A to Z
@@ -297,6 +301,7 @@ West Region Total Sales is 1,512,500
 
 
 ### Data Analysis
+---
 ### Using SQL
 ### SQL Queries
 ![image](https://github.com/user-attachments/assets/6fcf642f-fdad-438b-9771-ece205b30b2a)
