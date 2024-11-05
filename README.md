@@ -15,7 +15,7 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Microsoft Excel summary and visualizations](#microsoft-excel-summary-and-visualizations)
 
-[Excel Formula Calculation](#excel-formula-calculation)
+[Excel Formulas Calculation](#excel-formulas-calculation)
 
 [Data Analysis](#data-analysis)
 
@@ -72,7 +72,7 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 
 
 
-### Microsoft Excel Summary
+### Microsoft Excel Summary and Visualizations
 ### Pivot Table Summary Report of Total Sales for each Product using Microsoft Excel
 
 Product	 Sum of Total Sales 
