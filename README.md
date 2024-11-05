@@ -192,7 +192,86 @@ Average Sales for gloves is 200
 
 Average Sales for Hat
 ![image](https://github.com/user-attachments/assets/8323d667-56e3-4a8a-9f00-3801b1663dd0)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
 
+![image](https://github.com/user-attachments/assets/bc942a93-efe1-442d-b550-81e43de7368f)
+Average Sales for hat is 158.75
+
+![image](https://github.com/user-attachments/assets/7369c129-1189-4726-97c8-4c76dd67f68b)
+Average Sales for hat is 158.75, rounded up to a whole number is 159
+
+Average Sales for Jacket
+![image](https://github.com/user-attachments/assets/f9137c03-d845-458c-b971-509ad8628fc0)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
+
+![image](https://github.com/user-attachments/assets/a9d8e2d2-01dc-4f6c-a11a-aca20c445021)
+Average Sales for Jacket is 140
+
+Average Sales for Shirt
+![image](https://github.com/user-attachments/assets/59433e5a-23fd-4548-9dfe-94a2dc333109)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
+
+
+![image](https://github.com/user-attachments/assets/bb39af6a-a7b3-4a0f-b822-daa9c55dd1e3)
+The Average Sales for shirt is 326.667
+
+![image](https://github.com/user-attachments/assets/e832c3d2-b0bf-4275-b3bf-39f5be594b99)
+The Average Sales for shirt is 327 rounded up to the nearest whole number
+
+
+Average Sales for shoes
+![image](https://github.com/user-attachments/assets/eabfcd4c-d8c2-4e45-8680-962bb38ab0b5)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
+
+![image](https://github.com/user-attachments/assets/d8a8557b-2457-4cab-9261-80625105a61f)
+Average Sales for shoes is 308.75
+
+![image](https://github.com/user-attachments/assets/cdd21f25-8ede-41c3-be2c-2c9c174bbc78)
+The average sales for shoes is 309 rounded up to the nearest whole number
+
+
+Average Sales for socks
+![image](https://github.com/user-attachments/assets/b4812ef7-49fd-4ad4-a6f0-a653aae1cf2f)
+=AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
+
+
+
+![image](https://github.com/user-attachments/assets/a257a3b1-269a-4eda-96b1-4a3628c23ec8)
+The average sales for socks is 121.6667
+
+
+![image](https://github.com/user-attachments/assets/54213278-5b64-476f-82b1-58b7e8b97117)
+Average sales for socks rounded to a whole number is 122
+
+
+Average Sales for all Products
+![image](https://github.com/user-attachments/assets/ce1e90ec-de33-4fe9-a230-ffe269accfc0)
+
+
+
+![image](https://github.com/user-attachments/assets/a9ed5504-6e69-4fab-9348-5d80ebfdd955)
+Average Sales for all Products is 211.75
+
+
+
+Total Revenue by Region
+![image](https://github.com/user-attachments/assets/1dcc7c33-96f3-4de1-a439-7c052f80b56b)
+I sorted the Region column A to Z
+
+
+East Region Total Sales
+![image](https://github.com/user-attachments/assets/d3d38f94-ba2a-4598-950c-ade872789094)
+I sorted the Region Column A to Z
+=SUMIF then Ctrl A to open the function arguments dialogue box, input data, click ok
+
+
+![image](https://github.com/user-attachments/assets/8c9d30b1-0f99-4677-a0b6-324d765a18e3)
+The Total Sales for East Region is 2,450,000
+
+
+North Region Total Sales
+![image](https://github.com/user-attachments/assets/2b37b933-3062-4306-a96e-24ebb3708037)
+= SUMIF then Ctrl A to open the function arguments dialogue box, input data, click ok
 
 
 
