@@ -187,6 +187,12 @@ Average Sales for gloves
 ![image](https://github.com/user-attachments/assets/670c6ce6-ba8a-4f4f-a2c1-5d537fcae9c7)
 =AVERAGEIF then Ctrl A to open the function arguments dialogue box, enter the values, click ok
 
+![image](https://github.com/user-attachments/assets/ba14c71b-b981-48c8-9804-870913ddcee4)
+Average Sales for gloves is 200
+
+Average Sales for Hat
+![image](https://github.com/user-attachments/assets/8323d667-56e3-4a8a-9f00-3801b1663dd0)
+
 
 
 
