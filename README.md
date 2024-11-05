@@ -274,6 +274,27 @@ North Region Total Sales
 = SUMIF then Ctrl A to open the function arguments dialogue box, input data, click ok
 
 
+![image](https://github.com/user-attachments/assets/8d59d097-1741-4010-ade3-8fdb775ce1b9)
+Total Sales for North Region is 1,950,000
+
+
+South Region Total Sales
+![image](https://github.com/user-attachments/assets/3792e16b-25ca-4574-8138-f83a890f535e)
+=SUMIF then Ctrl A to open the function arguments dialogue box, click ok
+
+![image](https://github.com/user-attachments/assets/65d92f8a-52a7-467d-ad8c-9e0840a9475d)
+The South Region Total Sales is 4,675,000.
+
+
+West Region Total Sales
+![image](https://github.com/user-attachments/assets/0340da93-830f-463c-b45a-4406dc6cdd17)
+=SUMIF then Ctrl A to open the function arguments dialogue box, click ok
+
+
+
+![image](https://github.com/user-attachments/assets/643572e3-7f4f-4abe-97ec-6b13b1499a9d)
+West Region Total Sales is 1,512,500
+
 
 ### Data Analysis
 ### Using SQL
