@@ -183,6 +183,7 @@ Also low sales in September can be because December festive season is approachin
 
 ### Data Analysis
 ### Using SQL
+### SQL Queries
 ![image](https://github.com/user-attachments/assets/6fcf642f-fdad-438b-9771-ece205b30b2a)
 ![image](https://github.com/user-attachments/assets/40ee09dd-53ce-4787-9958-e892b4ea4c7c)
 
@@ -204,8 +205,13 @@ Also low sales in September can be because December festive season is approachin
 
 ![image](https://github.com/user-attachments/assets/f22044bd-f8c2-4f20-bf81-fae21aed589c)
 
+![image](https://github.com/user-attachments/assets/3760969c-9b8f-4748-a822-621ea51a7620)
 
+![image](https://github.com/user-attachments/assets/fc14cae3-5e18-474c-be53-152be54065dd)
 
+![image](https://github.com/user-attachments/assets/d96d379b-655d-4821-8336-c036f7a7a8e4)
+
+![image](https://github.com/user-attachments/assets/c3372406-5546-4ec1-814c-e071877b6ce9)
 
 
 
