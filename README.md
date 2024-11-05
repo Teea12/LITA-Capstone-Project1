@@ -331,7 +331,7 @@ West Region Total Sales is 1,512,500
 
 
 
-### Power BI Visualizations
+### Power BI Data Visualizations
 ---
 Power BI is a data visualization and business intelligence tool. It converts data from different data sources to interactive dashboard, and create a report.
 
