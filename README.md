@@ -254,7 +254,7 @@ Average Sales for all Products is 211.75
 
 
 
-Total Revenue by Region
+### Total Revenue by Region
 ![image](https://github.com/user-attachments/assets/1dcc7c33-96f3-4de1-a439-7c052f80b56b)
 I sorted the Region column A to Z
 
