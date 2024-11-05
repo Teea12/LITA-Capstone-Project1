@@ -17,6 +17,8 @@ This is where I documented my Capstone project for Data Analysis with the Incuba
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
+[Excel Formula Calculation](#excel-formula-calculation)
+
 [Data Analysis](#data-analysis)
 
 [Power BI Data Visualizations](#power-BI-data-visualizations)
